@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleGetInfoString</key>
-	<string>2.1, © 2001-2007 Marc Liyanage</string>
+	<string>2.2, © 2001-2008 Marc Liyanage</string>
 	<key>CFBundleVersion</key>
 	<string>2.1</string>
 	<key>CFBundleAllowMixedLocalizations</key>
